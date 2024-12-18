@@ -1,7 +1,7 @@
 <img src='banner.gif'/>
 
- <a href='https://www.free-counters.org/'>free HitCounter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=45550455955735a4ab7d4372218316e88783c1f0'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1278636/t/3"></script>
+![](https://komarev.com/ghpvc/?username=Om2005Prakash&style=for-the-badge)
+
 
 <!--
 **Om2005Prakash/Om2005Prakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
