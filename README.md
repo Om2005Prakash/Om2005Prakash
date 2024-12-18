@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src='banner.gif'/>
 
 <!--
 **Om2005Prakash/Om2005Prakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
